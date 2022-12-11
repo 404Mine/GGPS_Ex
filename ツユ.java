@@ -1,3 +1,8 @@
+/*
+	Grade Generator Per Student
+	By @404Mine
+*/
+
 import java.io.*;
 
 public class jack {
